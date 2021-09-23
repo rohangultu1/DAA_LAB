@@ -1,2 +1,2 @@
-# DAA_LAB
-DAA_Lab_Assignment
+# DAA_lab
+DAA Lab Work Weekwise
